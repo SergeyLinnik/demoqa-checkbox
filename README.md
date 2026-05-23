@@ -18,7 +18,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/demoqa-checkbox.git
+git clone https://github.com/<ваш-логин>/demoqa-checkbox.git
 cd demoqa-checkbox
 python -m venv venv
 ```
